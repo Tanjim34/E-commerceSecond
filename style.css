@@ -1,0 +1,88 @@
+#con{
+    background-color: white;
+    padding: 0px 0px;
+    background-color: gray;
+}
+.container{
+    margin-bottom: 50px;
+    background-color: gray;
+    padding: 30px 30px;
+    border-radius: 10px;
+}
+.buy-now-button{
+    background-color: black;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.see{
+    padding-top: 10px;
+    color:#ffc107;
+    text-decoration: none;
+}
+.see:visited{
+    color:#ffc107;
+}
+#sm1, #sm2, #sm3 {
+    border: none;
+   border-radius: 10px;
+   background-color: white;
+   padding: 10px 20px;
+    box-shadow: 10px 10px 15px rgba(211, 211, 211, 0.678);
+    
+}
+
+.card-text{
+    text-align: center;
+}
+.categories-border {
+    border-bottom: 10px solid #FFBB24;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.cate{
+    text-align: center;
+    font-weight: bold;
+    font-size: 15px;
+}
+#categories-left{
+    position: relative;
+    top: 45px;
+    left: 20px;
+    }
+    .bag{
+        border: none;
+   border-radius: 10px;
+   background-color: white;
+   padding: 10px 20px;
+    box-shadow: 10px 10px 15px rgba(211, 211, 211, 0.678);
+    }
+    .bag-beauty1{
+        position: relative;
+       bottom: 30px;
+    }
+   .bag-beauty{
+        position: relative;
+        left: 60px;
+        bottom: 20px;
+    }
+    .foot{
+    
+        float: left;
+    }
+    .foot1{
+        margin-left: 25%;
+       
+        width: 30%;
+        float: left;
+    }
+    .foot2{
+        margin-left: 5%;
+        margin-right: 20%;
+        width: 20%;
+        float: left;
+    }
+    
